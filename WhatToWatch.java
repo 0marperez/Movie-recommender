@@ -1,9 +1,3 @@
-/* CS1101 Intro to Computer Science
- *Instructor: Aguirre 
- *Love
- *Moddified and submitted by: Omar Fernando Perez
-*/
-
 import java.util.Scanner;
 
 public class WhatToWatch {
